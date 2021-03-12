@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &652934209692087766
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 13.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1346410542475117379, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2425818564680843719, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_Name
+      value: Blue Lawyer Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735658374210898715, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735658374210898716, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_Speed
+      value: 7.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735658374210898716, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_AutoBraking
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735658374210898716, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_Acceleration
+      value: 10.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 2735658374210898718, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f6ec4287d2be91b44b135dae0a6a2065, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d53324685068354dbb71f15fdf986c7, type: 3}
